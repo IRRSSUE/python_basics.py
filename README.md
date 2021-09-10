@@ -10,6 +10,7 @@ Python is the language that can learn self and can learn by coding daily. If you
 these are my social media accounts I rearly used them - 
 Instagrm - instagram.com/irrssue
 Twitter - @irrssue 
+Gmail - austinrolert@gmail.com / zawsawthura379@gmail.com
 
 My offical name is Austin Rolert , I just using irrssue cuz it's short and easy to remember by y'll xD 
 
