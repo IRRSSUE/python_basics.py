@@ -32,4 +32,4 @@ if extra_cheese == "Y":
 elif extra_cheese == "N":
   bill += 0
 
-print(f"Your final bill is {bill}")
+print(f"Your final bill is {bill}$")
