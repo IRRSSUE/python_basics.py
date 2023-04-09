@@ -43,4 +43,4 @@ If you have an idea for a new terminal-based Python project, feel free to contri
 
 ## Contact
 
-If you have any questions or comments about these projects, feel free to contact me at my email (austinrolert@gmail.com) or on my social media accounts [Instagram](instagram.com/irrssue). You can also visit my personal website [Irrssue](irrssue.webflow.io) to learn more about me and my other projects. Thank you for checking out my Python terminal projects!
+If you have any questions or comments about these projects, feel free to contact me at my email (austinrolert@gmail.com) or on my social media accounts [Instagram](https://instagram.com/irrssue). You can also visit my personal website [Irrssue](https://irrssue.webflow.io) to learn more about me and my other projects. Thank you for checking out my Python terminal projects!
