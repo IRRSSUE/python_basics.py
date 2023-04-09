@@ -30,7 +30,12 @@ while attempts > 0:
     print(f"You have {attempts} attamps to guess the number")
     guess = int(input("Enter your guess: "))
     if guess == GUESS_NUMBER:
-        print(f"You win")
+        print("""
+           ┌─┐┬ ┬ 
+╚╦╝│ ││ │  ║║║││││
+ ╩ └─┘└─┘  ╚╩╝┴┘└┘
+
+        """)
         quit()
     elif guess > GUESS_NUMBER:
         if guess - GUESS_NUMBER > 10:  
