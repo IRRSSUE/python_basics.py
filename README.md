@@ -1,17 +1,46 @@
-# python_basics.py
-The basic python codes that only run in terminal 
+# Python Terminal Projects
 
-these code haven't UI and UX 
+Welcome to my collection of Python projects that run in the terminal! These projects are meant to be simple, fun, and easy to use, even for beginners.
 
-these are come form the test that I have to pass and If I complete the test I just directly import to github so eveyone can learn about these and I put explain in discription so y'll can know how I slove this in my direction. 
+### Table of Contents
 
-Python is the language that can learn self and can learn by coding daily. If you wunna learn code everything you have to pay is attention and your times. Focus learn over 6 hours a day and 4 months later you'll beocme advance level in it.
+Installation
+Usage
+Project Descriptions
+Contributing
+Contact
+Installation
 
-these are my social media accounts I rearly used them - 
-Instagrm - instagram.com/irrssue
-Twitter - @irrssue 
-Gmail - austinrolert@gmail.com / zawsawthura379@gmail.com
+To use these Python projects, you will need to have Python 3 installed on your computer. You can download it for free from the official website here.
 
-My offical name is Austin Rolert , I just using irrssue cuz it's short and easy to remember by y'll xD 
+Once you have Python installed, you can clone this repository to your local machine using the following command in your terminal:
 
-wish y'll the best in your life /Austin_Rolert /10/9/2021
+```
+git clone https://github.com/<your-github-username>/python-terminal-projects.git
+```
+
+### Usage
+
+To use one of these projects, simply navigate to its directory in your terminal and run the main Python file. For example, to play the number guessing game, you would do the following:
+```
+cd number-guessing-game
+python main.py
+```
+
+ach project should come with its own instructions and prompts in the terminal.
+
+Project Descriptions
+
+Here's a brief overview of each project included in this repo:
+
+- Number Guessing Game: A simple game where the user has to guess a random number between 1 and 100. The user can choose between an easy mode with 10 attempts or a hard mode with 5 attempts.
+- Text Adventure Game: A text-based adventure game where the user can navigate through different rooms and make choices that affect the outcome of the game.
+- Todo List: A basic to-do list where the user can add, remove, and mark tasks as complete.
+- Rock Paper Scissors: A classic game where the user plays against the computer in a game of rock paper scissors.
+Contributing
+
+If you have an idea for a new terminal-based Python project, feel free to contribute to this repo by creating a new directory with your project and a main Python file. Please make sure your code is well-documented and easy to understand.
+
+## Contact
+
+If you have any questions or comments about these projects, feel free to contact me at my email (austinrolert@gmail.com) or on my social media accounts [Instagram](instagram.com/irrssue). You can also visit my personal website [Irrssue](irrssue.webflow.io) to learn more about me and my other projects. Thank you for checking out my Python terminal projects!
