@@ -12,7 +12,6 @@ print("""
       
 print(f"Ok take a guess I'm think a number between 1 and 100")
 GUESS_NUMBER = random.randint(1,100+1)
-print(GUESS_NUMBER)
 
 while True:
     difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ").lower()
